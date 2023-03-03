@@ -11,6 +11,8 @@ n=10
 
 
 #kkkkkkkkk
+
+# afterr kkk
 for i in range(n):
     print(i)
 
