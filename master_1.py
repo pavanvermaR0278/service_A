@@ -7,14 +7,7 @@ print("this is adding after changes on github branch, to check conflicts")
 # this is again on githu.com
 n=10
 # hhhhh
-# this is after guthub.com, in vs code editor
 
-
-#kkkkkkkkk
-
-# afterr kkk
-
-#after kkkkhhhhh in vs code
 for i in range(n):
     print(i)
 
