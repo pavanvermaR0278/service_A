@@ -11,6 +11,8 @@ n=10
 
 
 #kkkkkkkkk
+
+#after kkkkhhhhh in vs code
 for i in range(n):
     print(i)
 
